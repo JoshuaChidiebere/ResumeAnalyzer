@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/8f5c0aa9-158c-4a77-a2aa-961805d4cc33" /># AI-Powered Resume Analyzer
+# AI-Powered Resume Analyzer
 
 **Portfolio Project 5** — Parses PDF/DOCX resumes, extracts skills & experience, matches against job descriptions, and provides AI-generated feedback & scores.
 
