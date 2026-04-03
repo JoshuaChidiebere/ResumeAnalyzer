@@ -1,4 +1,4 @@
-# AI-Powered Resume Analyzer
+<img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/8f5c0aa9-158c-4a77-a2aa-961805d4cc33" /># AI-Powered Resume Analyzer
 
 **Portfolio Project 5** — Parses PDF/DOCX resumes, extracts skills & experience, matches against job descriptions, and provides AI-generated feedback & scores.
 
@@ -19,7 +19,8 @@ Python • Streamlit • PyPDF2 • python-docx • pandas • OpenAI (optional)
 3. (Optional) Add your OpenAI API key for enhanced AI analysis
 
 ## Screenshots
-(Add screenshots showing resume upload, extracted skills, match score, and generated PDF)
+<img width="1920" height="1080" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/3977737d-3e7d-46cf-84ca-669c0f21f4ce" />
+<img width="1920" height="1080" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/f55f6fb2-ad09-46c3-895d-f79d1e94f29f" />
 
 ## Use Cases
 - HR resume screening tools
